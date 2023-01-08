@@ -5,7 +5,7 @@ Required by:
 Possible solution:
  - Declare repository providing the artifact, see the documentation at https://docs.gradle.org/current/userguide/declaring_repositories.html
 
-# =======================================================
+# ==================================================
 
 mvc-prac:main: Could not find org.apache.tomcat.embed:tomcat-embeb-core:8.5.42.
 Searched in the following locations:
